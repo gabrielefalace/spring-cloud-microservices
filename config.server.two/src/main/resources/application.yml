@@ -23,3 +23,5 @@ spring:
               uri: https://github.com/gabrielefalace/spring-cloud-config-secondary
               search-paths:
                 - 'station*'
+        encrypt:
+          enabled: false
